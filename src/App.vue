@@ -95,60 +95,76 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "The Drop",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Begger",
+          "alias": "Lykos Antenor",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "Myrmidon"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Gladius",
+          "alias": "Barnabus of Cardona",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Fang"
+        },
+        {
+          "callsign": "Hawk",
+          "alias": "Maliq Rumore",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Time's Punishment"
+        },
+        {
+          "callsign": "Lux",
+          "alias": "Sanctus Lux Vexillumvir",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Pax Auctor"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
+          "callsign": "Magnu",
+          "alias": "Conrad W. Romagnon",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "Crystabel"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Platinum",
+          "alias": "Stein Orville",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "Stardust Descendant"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
+          "callsign": "Japan",
+          "alias": "うさぎの白い",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "うさぎの白い"
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "planet": "Jab",
+        "year": "305 A.E.I.",
+        "system": "Haistro",
+        "gate": "Ecclesia Space",
+        "ring": "Omicron",
+        "headerTitle": "Ecclesia Anglicorum",
+        "headerSubtitle": "Ordo Sanctus Machina",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
